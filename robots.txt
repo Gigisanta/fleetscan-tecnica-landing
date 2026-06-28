@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fleetscan-tecnica.vercel.app/sitemap.xml
+Sitemap: https://fleetscan-tecnica-landing.vercel.app/sitemap.xml
